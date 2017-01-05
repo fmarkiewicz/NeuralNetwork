@@ -1,0 +1,2 @@
+# NeuralNetwork
+exercise for studies
